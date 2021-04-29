@@ -1,0 +1,82 @@
+{
+  "dataMonsters": {
+    "slimeVerde": {
+      "name": "Slime Verde",
+      "color": "#bdff93",
+      "avatar": "https://imgur.com/brfRJ2Q.png",
+      "element": "Planta",
+      "level": 4,
+      "hp": 35,
+      "powerMin": 5,
+      "powerMax": 15,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 1
+    },
+    "irmaoDoSlimeVerde": {
+      "name": "Slime Verde",
+      "color": "#6ed76e",
+      "avatar": "https://imgur.com/5OcjFkB.png",
+      "element": "Planta",
+      "level": 5,
+      "hp": 40,
+      "powerMin": 7,
+      "powerMax": 17,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 1
+    },
+    "umSlimeQuePareceOSlimeVerde": {
+      "name": "Slime Verde",
+      "color": "#d7f9c2",
+      "avatar": "https://imgur.com/WeOBbVf.png",
+      "element": "Planta",
+      "level": 3,
+      "hp": 30,
+      "powerMin": 5,
+      "powerMax": 13,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 1
+    },
+    "aranhaZombie": {
+      "name": "Aranha Zombie",
+      "color": "#ddc5c5",
+      "avatar": "https://imgur.com/fiysScE.png",
+      "element": "Morto Vivo",
+      "level": 8,
+      "hp": 70,
+      "powerMin": 10,
+      "powerMax": 20,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 2
+    },
+    "aranhaFantasma": {
+      "name": "Aranha Fantasma",
+      "color": "#fcfbfb",
+      "avatar": "https://imgur.com/dqxnzn9.png",
+      "element": "Morto Vivo",
+      "level": 10,
+      "hp": 90,
+      "powerMin": 15,
+      "powerMax": 20,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 2
+    },
+    "aranhaDeFogo": {
+      "name": "Aranha de Fogo",
+      "color": "#f33105",
+      "avatar": "https://imgur.com/83XZ5xJ.png",
+      "element": "Fogo",
+      "level": 7,
+      "hp": 60,
+      "powerMin": 15,
+      "powerMax": 30,
+      "drops": ["gold", "nada"],
+      "goldMin": 1,
+      "goldMax": 2
+    }
+  }
+}

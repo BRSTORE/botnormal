@@ -1,0 +1,105 @@
+{
+  "content": {
+    "kingdom": {
+      "embed": {
+        "title": "Aiskream Kingdom",
+        "color": "#00bfff",
+        "footer": {
+          "icon_url": "https://imgur.com/GpxsCWx.png",
+          "text": "Você está aqui."
+        },
+        "thumbnail": {
+          "url": "https://imgur.com/LrfeGho.png"
+        },
+        "fields": [
+          {
+            "name": "<:caldeiro:736932024643747880> Loja de Poções.",
+            "value": "**`Local Bloqueado.`**"
+          },
+          {
+            "name": "<:chopp:736932437640085565> Taberna de Guilda.",
+            "value": "**`Local Bloqueado.`**"
+          }
+        ]
+      }
+    },
+    "floresta": {
+      "embed": {
+        "title": "Floresta",
+        "color": "#00fa9a",
+        "footer": {
+          "icon_url": "https://imgur.com/GpxsCWx.png",
+          "text": "Você está aqui."
+        },
+        "thumbnail": {
+          "url": "https://imgur.com/w8Nj4XY.png"
+        },
+        "fields": [
+          {
+            "name": "<:skull3:737006619807973397> Monstros.",
+            "value": "**`Local permitido para caçar monstros.`**"
+          }
+        ]
+      }
+    },
+    "minaAbandonada": {
+      "embed": {
+        "title": "Mina Abandonada",
+        "color": "#934c18",
+        "footer": {
+          "icon_url": "https://imgur.com/GpxsCWx.png",
+          "text": "Você está aqui."
+        },
+        "thumbnail": {
+          "url": "https://imgur.com/7qqwshi.png"
+        },
+        "fields": [
+          {
+            "name": "<:picareta:723070335057920071> Mineração.",
+            "value": "**`Local liberado para pequenas minerações.`**"
+          },
+          {
+            "name": "<:skull3:737006619807973397> Monstros.",
+            "value": "**`Local permitido para caçar monstros.`**"
+          }
+        ]
+      }
+    }
+  },
+  "identifier": {
+    "kingdom": {
+      "name": "Aiskream Kingdom",
+      "emojiID": "736943559516880926",
+      "emojiMention": "<:kingdom:736943559516880926>",
+      "price": 20,
+      "hunt": false,
+      "pick": false
+    },
+    "floresta": {
+      "name": "Floresta",
+      "emojiID": "736937216814612491",
+      "emojiMention": "<:floresta:736937216814612491>",
+      "price": 25,
+      "hunt": true,
+      "pick": false,
+      "monsters": [
+        "slimeVerde",
+        "irmaoDoSlimeVerde",
+        "umSlimeQuePareceOSlimeVerde"
+      ]
+    },
+    "minaAbandonada": {
+      "name": "Mina Abandonada",
+      "emojiID": "737541286143197184",
+      "emojiMention": "<:mine:737541286143197184>",
+      "price": 30,
+      "hunt": true,
+      "pick": true,
+      "monsters": [
+        "aranhaZombie",
+        "aranhaFantasma",
+        "aranhaDeFogo"
+      ]
+    }
+  }
+}
